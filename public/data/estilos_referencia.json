@@ -1,0 +1,762 @@
+{
+  "artistas": [
+    {
+      "en": "Cory Loftis",
+      "es": "Cory Loftis",
+      "gloss_en": "Art Director on Zootopia / Zootopia 2 (Disney). Stylized characters + cinematic visdev.",
+      "gloss_es": "Director de arte en Zootopia / Zootopia 2 (Disney). Personajes estilizados + visdev cinematográfico.",
+      "guide_en": "Study: appealing shapes, fur/props simplification, cinematic color keys.",
+      "guide_es": "Estúdialo por: formas atractivas, simplificación de pelaje/props, color cinematográfico.",
+      "id": "cory-loftis"
+    },
+    {
+      "en": "TD Choi",
+      "es": "TD Choi",
+      "gloss_en": "Visdev / character artist (industry). Clean appeal shapes, strong staging.",
+      "gloss_es": "Artista visdev / personajes (industria). Formas limpias con appeal, staging fuerte.",
+      "guide_en": "Study: shape language, clean line vs paint, staging.",
+      "guide_es": "Estúdialo por: lenguaje de formas, línea limpia vs pintura, staging.",
+      "id": "td-choi"
+    },
+    {
+      "en": "Jin Kim",
+      "es": "Jin Kim",
+      "gloss_en": "Disney character designer (Big Hero 6, Zootopia, Frozen, Tangled).",
+      "gloss_es": "Diseñador de personajes Disney (Big Hero 6, Zootopia, Frozen, Enredados).",
+      "guide_en": "Study: construction, appeal, expressive model sheets.",
+      "guide_es": "Estúdialo por: construcción, appeal, hojas de modelo expresivas.",
+      "id": "jin-kim"
+    },
+    {
+      "en": "Shiyoon Kim",
+      "es": "Shiyoon Kim",
+      "gloss_en": "Disney character designer (Big Hero 6, Zootopia). Dynamic cartoon construction.",
+      "gloss_es": "Diseñador de personajes Disney (Big Hero 6, Zootopia). Construcción cartoon dinámica.",
+      "guide_en": "Study: dynamic poses, face appeal, shape contrast.",
+      "guide_es": "Estúdialo por: poses dinámicas, appeal facial, contraste de formas.",
+      "id": "shiyoon-kim"
+    },
+    {
+      "en": "Glen Keane",
+      "es": "Glen Keane",
+      "gloss_en": "Disney legend (Ariel, Beast, Tarzan, Tangled). Expressive 2D force.",
+      "gloss_es": "Leyenda Disney (Ariel, Bestia, Tarzán, Enredados). Fuerza expresiva 2D.",
+      "guide_en": "Study: line of action, force, emotional acting.",
+      "guide_es": "Estúdialo por: línea de acción, fuerza, actuación emocional.",
+      "id": "glen-keane"
+    },
+    {
+      "en": "Carter Goodrich",
+      "es": "Carter Goodrich",
+      "gloss_en": "Character designer (Despicable Me, Hotel Transylvania, Brave).",
+      "gloss_es": "Diseñador de personajes (Mi villano favorito, Hotel Transylvania, Brave).",
+      "guide_en": "Study: caricature, volume, personality in silhouette.",
+      "guide_es": "Estúdialo por: caricatura, volumen, personalidad en silueta.",
+      "id": "carter-goodrich"
+    },
+    {
+      "en": "Nicolas Marlet",
+      "es": "Nicolas Marlet",
+      "gloss_en": "DreamWorks character designer (Kung Fu Panda, Dragons).",
+      "gloss_es": "Diseñador de personajes DreamWorks (Kung Fu Panda, Cómo entrenar a tu dragón).",
+      "guide_en": "Study: animal anatomy pushed to cartoon, shape variety.",
+      "guide_es": "Estúdialo por: anatomía animal llevada a cartoon, variedad de formas.",
+      "id": "nicolas-marlet"
+    },
+    {
+      "en": "Nathan Fowkes",
+      "es": "Nathan Fowkes",
+      "gloss_en": "Visdev / color master (DreamWorks, Schoolism). Landscapes + color theory.",
+      "gloss_es": "Maestro visdev / color (DreamWorks, Schoolism). Paisajes + teoría del color.",
+      "guide_en": "Study: color scripts, value grouping, atmosphere.",
+      "guide_es": "Estúdialo por: color scripts, agrupación de valores, atmósfera.",
+      "id": "nathan-fowkes"
+    },
+    {
+      "en": "Daisuke 'Dice' Tsutsumi",
+      "es": "Daisuke 'Dice' Tsutsumi",
+      "gloss_en": "Pixar art director (Toy Story 3, Monsters University). Painterly light.",
+      "gloss_es": "Director de arte Pixar (Toy Story 3, Monsters University). Luz pictórica.",
+      "guide_en": "Study: light logic, tonal movies, emotional lighting.",
+      "guide_es": "Estúdialo por: lógica de luz, películas tonales, iluminación emocional.",
+      "id": "dice-tsutsumi"
+    },
+    {
+      "en": "Robert Kondo",
+      "es": "Robert Kondo",
+      "gloss_en": "Pixar / Tonko House (Ratatouille, The Dam Keeper). Graphic light.",
+      "gloss_es": "Pixar / Tonko House (Ratatouille, The Dam Keeper). Luz gráfica.",
+      "guide_en": "Study: graphic shapes of light, minimal detail.",
+      "guide_es": "Estúdialo por: formas gráficas de luz, detalle mínimo.",
+      "id": "robert-kondo"
+    },
+    {
+      "en": "Ralph Eggleston",
+      "es": "Ralph Eggleston",
+      "gloss_en": "Pixar production designer (Incredibles, Inside Out, For the Birds).",
+      "gloss_es": "Diseñador de producción Pixar (Los Increíbles, Inside Out, Pájaros).",
+      "guide_en": "Study: color staging, production design clarity.",
+      "guide_es": "Estúdialo por: staging de color, claridad de diseño de producción.",
+      "id": "ralph-eggleston"
+    },
+    {
+      "en": "Mary Blair",
+      "es": "Mary Blair",
+      "gloss_en": "Disney legend (Alice, Peter Pan, Small World). Mid-century color/shape.",
+      "gloss_es": "Leyenda Disney (Alicia, Peter Pan, Small World). Color/forma mid-century.",
+      "guide_en": "Study: bold color collisions, naive shapes.",
+      "guide_es": "Estúdiala por: choques audaces de color, formas ingenuas.",
+      "id": "mary-blair"
+    },
+    {
+      "en": "Eyvind Earle",
+      "es": "Eyvind Earle",
+      "gloss_en": "Sleeping Beauty stylist. Graphic trees, gothic elegance.",
+      "gloss_es": "Estilista de La Bella Durmiente. Árboles gráficos, elegancia gótica.",
+      "guide_en": "Study: stylized nature, line texture, composition.",
+      "guide_es": "Estúdialo por: naturaleza estilizada, textura lineal, composición.",
+      "id": "eyvind-earle"
+    },
+    {
+      "en": "Terryl Whitlatch",
+      "es": "Terryl Whitlatch",
+      "gloss_en": "Creature designer (Star Wars, Brave). Realistic functional anatomy.",
+      "gloss_es": "Diseñadora de criaturas (Star Wars, Brave). Anatomía funcional realista.",
+      "guide_en": "Study: animal anatomy applied to fantasy.",
+      "guide_es": "Estúdiala por: anatomía animal aplicada a fantasía.",
+      "id": "terryl-whitlatch"
+    },
+    {
+      "en": "Iain McCaig",
+      "es": "Iain McCaig",
+      "gloss_en": "Concept legend (Star Wars, Avengers). Story-driven faces.",
+      "gloss_es": "Leyenda del concept (Star Wars, Avengers). Rostros con historia.",
+      "guide_en": "Study: storytelling in faces, process layers.",
+      "guide_es": "Estúdialo por: narrativa en rostros, capas de proceso.",
+      "id": "iain-mccaig"
+    },
+    {
+      "en": "Craig Mullins",
+      "es": "Craig Mullins",
+      "gloss_en": "Digital painting pioneer. Cinematic light + loose brush.",
+      "gloss_es": "Pionero del matte painting digital. Luz cinematográfica + pincel suelto.",
+      "guide_en": "Study: value first, edges control, cinematic comps.",
+      "guide_es": "Estúdialo por: valor primero, control de bordes, compos cinematográficas.",
+      "id": "craig-mullins"
+    },
+    {
+      "en": "Feng Zhu",
+      "es": "Feng Zhu",
+      "gloss_en": "Concept design (FZD School). Industrial + sci-fi pipelines.",
+      "gloss_es": "Diseño de concepto (FZD School). Pipelines industrial + sci-fi.",
+      "guide_en": "Study: industrial design basics, thumbnails volume.",
+      "guide_es": "Estúdialo por: bases de diseño industrial, volumen de thumbnails.",
+      "id": "feng-zhu"
+    },
+    {
+      "en": "James Gurney",
+      "es": "James Gurney",
+      "gloss_en": "Dinotopia / Color and Light. Realistic plein air method.",
+      "gloss_es": "Dinotopia / Color and Light. Método plein air realista.",
+      "guide_en": "Study: gamut mapping, plein air observation.",
+      "guide_es": "Estúdialo por: mapeo de gama, observación plein air.",
+      "id": "james-gurney"
+    },
+    {
+      "en": "Kim Jung Gi",
+      "es": "Kim Jung Gi",
+      "gloss_en": "Ink master. Freehand perspective + visual memory.",
+      "gloss_es": "Maestro de tinta. Perspectiva a mano alzada + memoria visual.",
+      "guide_en": "Study: freehand perspective, daily sketch mileage.",
+      "guide_es": "Estúdialo por: perspectiva a mano alzada, millaje de boceto diario.",
+      "id": "kim-jung-gi"
+    },
+    {
+      "en": "Loish (Lois van Baarle)",
+      "es": "Loish (Lois van Baarle)",
+      "gloss_en": "Stylized digital painter. Appeal + expressive color.",
+      "gloss_es": "Pintora digital estilizada. Appeal + color expresivo.",
+      "guide_en": "Study: stylized portraits, color harmony, brush economy.",
+      "guide_es": "Estúdiala por: retrato estilizado, armonía de color, economía de pincel.",
+      "id": "loish"
+    },
+    {
+      "en": "Ross Tran",
+      "es": "Ross Tran",
+      "gloss_en": "Visdev / stylized painter. Vibrant light, appealing characters.",
+      "gloss_es": "Visdev / pintor estilizado. Luz vibrante, personajes atractivos.",
+      "guide_en": "Study: vibrant color, stylized portrait process.",
+      "guide_es": "Estúdialo por: color vibrante, proceso de retrato estilizado.",
+      "id": "ross-tran"
+    },
+    {
+      "en": "Kazuo Oga",
+      "es": "Kazuo Oga",
+      "gloss_en": "Ghibli background master (Totoro, Mononoke). Lush nature.",
+      "gloss_es": "Maestro de fondos Ghibli (Totoro, Mononoke). Naturaleza exuberante.",
+      "guide_en": "Study: watercolor foliage, light through trees.",
+      "guide_es": "Estúdialo por: follaje en acuarela, luz entre árboles.",
+      "id": "kazuo-oga"
+    },
+    {
+      "en": "Takehiko Inoue",
+      "es": "Takehiko Inoue",
+      "gloss_en": "Slam Dunk / Vagabond. Ink realism + motion.",
+      "gloss_es": "Slam Dunk / Vagabond. Realismo en tinta + movimiento.",
+      "guide_en": "Study: sumi control, anatomy in motion.",
+      "guide_es": "Estúdialo por: control sumi, anatomía en movimiento.",
+      "id": "takehiko-inoue"
+    },
+    {
+      "en": "Moebius (Jean Giraud)",
+      "es": "Moebius (Jean Giraud)",
+      "gloss_en": "Ligne claire / sci-fi (Blueberry, Arzach). Infinite line.",
+      "gloss_es": "Línea clara / sci-fi (Blueberry, Arzach). Línea infinita.",
+      "guide_en": "Study: clear line, worldbuilding, horizon compositions.",
+      "guide_es": "Estúdialo por: línea clara, worldbuilding, composiciones con horizonte.",
+      "id": "moebius"
+    },
+    {
+      "en": "Matthias Lechner",
+      "es": "Matthias Lechner",
+      "gloss_en": "Art Director on Zootopia with Cory Loftis. Cinematic city design.",
+      "gloss_es": "Director de arte en Zootopia junto a Cory Loftis. Diseño cinematográfico de ciudad.",
+      "guide_en": "Study: urban staging, districts with identity, color script.",
+      "guide_es": "Estúdialo por: staging urbano, distritos con identidad, color script.",
+      "id": "matthias-lechner"
+    },
+    {
+      "en": "Lorelay Bove",
+      "es": "Lorelay Bove",
+      "gloss_en": "Disney visdev (Zootopia, Encanto, Big Hero 6). Charming light + color.",
+      "gloss_es": "Visdev Disney (Zootopia, Encanto, Big Hero 6). Luz y color encantadores.",
+      "guide_en": "Study: color keys, appealing interiors, light mood.",
+      "guide_es": "Estúdiala por: claves de color, interiores atractivos, mood de luz.",
+      "id": "lorelay-bove"
+    },
+    {
+      "en": "Paul Felix",
+      "es": "Paul Felix",
+      "gloss_en": "Production designer (Big Hero 6, Lilo & Stitch). Graphic city shapes.",
+      "gloss_es": "Diseñador de producción (Big Hero 6, Lilo & Stitch). Formas gráficas de ciudad.",
+      "guide_en": "Study: San Fransokyo design, shape + function.",
+      "guide_es": "Estúdialo por: diseño de San Fransokyo, forma + función.",
+      "id": "paul-felix"
+    },
+    {
+      "en": "Ryan Lang",
+      "es": "Ryan Lang",
+      "gloss_en": "Visdev (Moana, Big Hero 6, Wreck-It Ralph). Epic + appeal.",
+      "gloss_es": "Visdev (Moana, Big Hero 6, Rompe Ralph). Épico + appeal.",
+      "guide_en": "Study: epic scale comps, painterly finish.",
+      "guide_es": "Estúdialo por: composiciones épicas, acabado pictórico.",
+      "id": "ryan-lang"
+    },
+    {
+      "en": "Mingjue Helen Chen",
+      "es": "Mingjue Helen Chen",
+      "gloss_en": "Visdev (Paperman, Big Hero 6, Frozen). Graphic romance + design.",
+      "gloss_es": "Visdev (Paperman, Big Hero 6, Frozen). Romance gráfico + diseño.",
+      "guide_en": "Study: graphic staging, limited palette storytelling.",
+      "guide_es": "Estúdiala por: staging gráfico, narrativa en paleta limitada.",
+      "id": "helen-chen"
+    },
+    {
+      "en": "Griselda Sastrawinata-Lemay",
+      "es": "Griselda Sastrawinata-Lemay",
+      "gloss_en": "Character designer (Moana, Big Hero 6). Appeal + culture.",
+      "gloss_es": "Diseñadora de personajes (Moana, Big Hero 6). Appeal + cultura.",
+      "guide_en": "Study: appeal passes, costume storytelling.",
+      "guide_es": "Estúdiala por: pases de appeal, vestuario que narra.",
+      "id": "griselda-sastrawinata"
+    },
+    {
+      "en": "Brittney Lee",
+      "es": "Brittney Lee",
+      "gloss_en": "Disney visdev / paper artist (Frozen). Cut-paper + graphic shape.",
+      "gloss_es": "Visdev Disney / papel (Frozen). Papel recortado + forma gráfica.",
+      "guide_en": "Study: paper shapes, silhouette design.",
+      "guide_es": "Estúdiala por: formas de papel, diseño de silueta.",
+      "id": "brittney-lee"
+    },
+    {
+      "en": "Claire Keane",
+      "es": "Claire Keane",
+      "gloss_en": "Visdev (Tangled, Frozen). Rapunzel development, romantic light.",
+      "gloss_es": "Visdev (Enredados, Frozen). Desarrollo de Rapunzel, luz romántica.",
+      "guide_en": "Study: character exploration pages, hair motion.",
+      "guide_es": "Estúdiala por: páginas de exploración, movimiento de pelo.",
+      "id": "claire-keane"
+    },
+    {
+      "en": "Victoria Ying",
+      "es": "Victoria Ying",
+      "gloss_en": "Visdev (Paperman, Moana) + graphic novels. Sweet staging.",
+      "gloss_es": "Visdev (Paperman, Moana) + novela gráfica. Staging dulce.",
+      "guide_en": "Study: intimate staging, comic + film blend.",
+      "guide_es": "Estúdiala por: staging íntimo, mezcla cómic + cine.",
+      "id": "victoria-ying"
+    },
+    {
+      "en": "Chris Sanders",
+      "es": "Chris Sanders",
+      "gloss_en": "Creator/designer (Lilo & Stitch, How to Train Your Dragon).",
+      "gloss_es": "Creador/diseñador (Lilo & Stitch, Cómo entrenar a tu dragón).",
+      "guide_en": "Study: creature appeal, story-driven design.",
+      "guide_es": "Estúdialo por: appeal de criaturas, diseño con historia.",
+      "id": "chris-sanders"
+    },
+    {
+      "en": "Chris Sasaki",
+      "es": "Chris Sasaki",
+      "gloss_en": "Pixar character designer (Monsters University, Coco).",
+      "gloss_es": "Diseñador de personajes Pixar (Monsters University, Coco).",
+      "guide_en": "Study: construction sheets, personality shapes.",
+      "guide_es": "Estúdialo por: hojas de construcción, formas de personalidad.",
+      "id": "chris-sasaki"
+    },
+    {
+      "en": "Daniel Arriaga",
+      "es": "Daniel Arriaga",
+      "gloss_en": "Character art director on Coco (Pixar). Stylized skeleton appeal.",
+      "gloss_es": "Director de arte de personajes en Coco (Pixar). Appeal estilizado esquelético.",
+      "guide_en": "Study: Land of the Dead palette, skeleton appeal.",
+      "guide_es": "Estúdialo por: paleta de la Tierra de los Muertos, appeal esquelético.",
+      "id": "daniel-arriaga"
+    },
+    {
+      "en": "Deanna Marsigliese",
+      "es": "Deanna Marsigliese",
+      "gloss_en": "Character art director on Luca (Pixar). Sea-cartoon charm.",
+      "gloss_es": "Directora de arte de personajes en Luca (Pixar). Encanto marino cartoon.",
+      "guide_en": "Study: sea-creature caricature, color charm.",
+      "guide_es": "Estúdiala por: caricatura marina, encanto de color.",
+      "id": "deanna-marsigliese"
+    },
+    {
+      "en": "Harley Jessup",
+      "es": "Harley Jessup",
+      "gloss_en": "Production designer (Ratatouille, Monsters Inc, Cars).",
+      "gloss_es": "Diseñador de producción (Ratatouille, Monsters Inc, Cars).",
+      "guide_en": "Study: Paris staging, production clarity.",
+      "guide_es": "Estúdialo por: staging de París, claridad de producción.",
+      "id": "harley-jessup"
+    },
+    {
+      "en": "Lou Romano",
+      "es": "Lou Romano",
+      "gloss_en": "Pixar visdev (Incredibles). Retro graphic charm.",
+      "gloss_es": "Visdev Pixar (Los Increíbles). Encanto gráfico retro.",
+      "guide_en": "Study: retro shapes, graphic simplicity.",
+      "guide_es": "Estúdialo por: formas retro, simplicidad gráfica.",
+      "id": "lou-romano"
+    },
+    {
+      "en": "Pierre-Olivier Vincent",
+      "es": "Pierre-Olivier Vincent",
+      "gloss_en": "Art director How to Train Your Dragon (DreamWorks). Epic sky/sea.",
+      "gloss_es": "Director de arte Cómo entrenar a tu dragón (DreamWorks). Cielo/mar épicos.",
+      "guide_en": "Study: flying comps, epic scale vs intimacy.",
+      "guide_es": "Estúdialo por: composiciones de vuelo, escala épica vs intimidad.",
+      "id": "pierre-olivier-vincent"
+    },
+    {
+      "en": "Christophe Lautrette",
+      "es": "Christophe Lautrette",
+      "gloss_en": "Art director Kung Fu Panda (DreamWorks). Painterly Asia.",
+      "gloss_es": "Director de arte Kung Fu Panda (DreamWorks). Asia pictórica.",
+      "guide_en": "Study: painterly backgrounds, martial staging.",
+      "guide_es": "Estúdialo por: fondos pictóricos, staging marcial.",
+      "id": "christophe-lautrette"
+    },
+    {
+      "en": "Marcelo Vignali",
+      "es": "Marcelo Vignali",
+      "gloss_en": "Art director (Hotel Transylvania, Surf's Up – Sony). Graphic fun.",
+      "gloss_es": "Director de arte (Hotel Transylvania, Locos por el surf – Sony). Diversión gráfica.",
+      "guide_en": "Study: graphic color, fun shape language.",
+      "guide_es": "Estúdialo por: color gráfico, lenguaje de formas divertido.",
+      "id": "marcelo-vignali"
+    },
+    {
+      "en": "Alberto Mielgo",
+      "es": "Alberto Mielgo",
+      "gloss_en": "Art director Spider-Verse test + Love, Death & Robots. Painterly cinema.",
+      "gloss_es": "Director de arte prueba Spider-Verse + Love, Death & Robots. Cine pictórico.",
+      "guide_en": "Study: bold light, graphic realism, film frames.",
+      "guide_es": "Estúdialo por: luz audaz, realismo gráfico, frames de cine.",
+      "id": "alberto-mielgo"
+    },
+    {
+      "en": "Yuhki Demers",
+      "es": "Yuhki Demers",
+      "gloss_en": "Visdev Spider-Verse (Sony). Graphic comic-cinema blend.",
+      "gloss_es": "Visdev Spider-Verse (Sony). Mezcla cómic-cine gráfica.",
+      "guide_en": "Study: halftone, line + 3D blend.",
+      "guide_es": "Estúdialo por: medios tonos, mezcla línea + 3D.",
+      "id": "yuhki-demers"
+    },
+    {
+      "en": "Lindsey Olivares",
+      "es": "Lindsey Olivares",
+      "gloss_en": "Character designer Mitchells vs. the Machines. Ultra-appeal shapes.",
+      "gloss_es": "Diseñadora de personajes La familia Mitchell. Formas ultra-atractivas.",
+      "guide_en": "Study: family shape contrast, fashion storytelling.",
+      "guide_es": "Estúdiala por: contraste de formas familiares, moda que narra.",
+      "id": "lindsey-olivares"
+    },
+    {
+      "en": "Genndy Tartakovsky",
+      "es": "Genndy Tartakovsky",
+      "gloss_en": "Creator (Samurai Jack, Primal, Dexter). Graphic staging genius.",
+      "gloss_es": "Creador (Samurái Jack, Primal, Dexter). Genio del staging gráfico.",
+      "guide_en": "Study: silent storytelling, bold silhouettes.",
+      "guide_es": "Estúdialo por: narrativa silenciosa, siluetas audaces.",
+      "id": "genndy-tartakovsky"
+    },
+    {
+      "en": "Rebecca Sugar",
+      "es": "Rebecca Sugar",
+      "gloss_en": "Creator Steven Universe. Heartfelt color + songboards.",
+      "gloss_es": "Creadora Steven Universe. Color emotivo + songboards.",
+      "guide_en": "Study: emotional color, gem shape language.",
+      "guide_es": "Estúdiala por: color emocional, lenguaje de gemas.",
+      "id": "rebecca-sugar"
+    },
+    {
+      "en": "James Baxter",
+      "es": "James Baxter",
+      "gloss_en": "Animator legend (Belle, Rafiki, Spirit). Flowing 2D force.",
+      "gloss_es": "Leyenda de animación (Bella, Rafiki, Spirit). Fuerza 2D fluida.",
+      "guide_en": "Study: flowing line of action, dance-like poses.",
+      "guide_es": "Estúdialo por: línea de acción fluida, poses de danza.",
+      "id": "james-baxter"
+    },
+    {
+      "en": "Aaron Blaise",
+      "es": "Aaron Blaise",
+      "gloss_en": "Animator (Lion King, Brother Bear) + teacher. Animal realism.",
+      "gloss_es": "Animador (Rey León, Hermano Oso) + maestro. Realismo animal.",
+      "guide_en": "Study: animal gesture, Nala/Rajah construction.",
+      "guide_es": "Estúdialo por: gesto animal, construcción Nala/Rajah.",
+      "id": "aaron-blaise"
+    },
+    {
+      "en": "Bobby Chiu",
+      "es": "Bobby Chiu",
+      "gloss_en": "Founder Schoolism. Creature/character imagination.",
+      "gloss_es": "Fundador Schoolism. Imaginación criatura/personaje.",
+      "guide_en": "Study: daily imagination, digital process.",
+      "guide_es": "Estúdialo por: imaginación diaria, proceso digital.",
+      "id": "bobby-chiu"
+    },
+    {
+      "en": "Sam Nielson",
+      "es": "Sam Nielson",
+      "gloss_en": "Visdev teacher (Control Paint). Values + edges mastery.",
+      "gloss_es": "Maestro visdev (Control Paint). Dominio de valores + bordes.",
+      "guide_en": "Study: value grouping, edge control drills.",
+      "guide_es": "Estúdialo por: agrupación de valores, ejercicios de bordes.",
+      "id": "sam-nielson"
+    },
+    {
+      "en": "Syd Mead",
+      "es": "Syd Mead",
+      "gloss_en": "Futurist (Blade Runner, Tron). Industrial poetry.",
+      "gloss_es": "Futurista (Blade Runner, Tron). Poesía industrial.",
+      "guide_en": "Study: future vehicles, gouache rendering.",
+      "guide_es": "Estúdialo por: vehículos futuros, render en gouache.",
+      "id": "syd-mead"
+    },
+    {
+      "en": "Scott Robertson",
+      "es": "Scott Robertson",
+      "gloss_en": "How to Draw / industrial design. Perspective rendering bible.",
+      "gloss_es": "How to Draw / diseño industrial. Biblia de perspectiva y render.",
+      "guide_en": "Study: perspective grids, form rendering.",
+      "guide_es": "Estúdialo por: rejillas de perspectiva, render de formas.",
+      "id": "scott-robertson"
+    },
+    {
+      "en": "Jama Jurabaev",
+      "es": "Jama Jurabaev",
+      "gloss_en": "Concept (Avengers, Mandalorian). 3D + paint workflow.",
+      "gloss_es": "Concept (Avengers, Mandalorian). Flujo 3D + pintura.",
+      "guide_en": "Study: photobash to paint, cinematic thumbs.",
+      "guide_es": "Estúdialo por: photobash a pintura, thumbs cinematográficos.",
+      "id": "jama-jurabaev"
+    },
+    {
+      "en": "Simon Stålenhag",
+      "es": "Simon Stålenhag",
+      "gloss_en": "Tales from the Loop. Nordic sci-fi melancholy.",
+      "gloss_es": "Tales from the Loop. Sci-fi nórdica melancólica.",
+      "guide_en": "Study: mundane + strange, photo-paint blend.",
+      "guide_es": "Estúdialo por: cotidiano + extraño, mezcla foto-pintura.",
+      "id": "simon-stalenhag"
+    },
+    {
+      "en": "Yoji Shinkawa",
+      "es": "Yoji Shinkawa",
+      "gloss_en": "Metal Gear artist. Ink mecha + elegant figures.",
+      "gloss_es": "Artista Metal Gear. Mecha en tinta + figuras elegantes.",
+      "guide_en": "Study: ink brush mecha, elegant line.",
+      "guide_es": "Estúdialo por: mecha a pincel, línea elegante.",
+      "id": "yoji-shinkawa"
+    },
+    {
+      "en": "Katsuhiro Otomo",
+      "es": "Katsuhiro Otomo",
+      "gloss_en": "Akira creator. Hyper-detailed city + motion.",
+      "gloss_es": "Creador de Akira. Ciudad hiperdetallada + movimiento.",
+      "guide_en": "Study: Neo-Tokyo density, action staging.",
+      "guide_es": "Estúdialo por: densidad Neo-Tokio, staging de acción.",
+      "id": "katsuhiro-otomo"
+    },
+    {
+      "en": "Akira Toriyama",
+      "es": "Akira Toriyama",
+      "gloss_en": "Dragon Ball / Dr. Slump. Perfect cartoon clarity.",
+      "gloss_es": "Dragon Ball / Dr. Slump. Claridad cartoon perfecta.",
+      "guide_en": "Study: clean shapes, vehicle + character fun.",
+      "guide_es": "Estúdialo por: formas limpias, diversión vehículo + personaje.",
+      "id": "akira-toriyama"
+    },
+    {
+      "en": "Inio Asano",
+      "es": "Inio Asano",
+      "gloss_en": "Goodnight Punpun / Solanin. Photo-manga backgrounds + acting.",
+      "gloss_es": "Buenas noches, Punpun / Solanin. Fondos foto-manga + actuación.",
+      "guide_en": "Study: real backgrounds vs cartoon figures.",
+      "guide_es": "Estúdialo por: fondos reales vs figuras cartoon.",
+      "id": "inio-asano"
+    },
+    {
+      "en": "Mike Mignola",
+      "es": "Mike Mignola",
+      "gloss_en": "Hellboy creator. Graphic blacks master.",
+      "gloss_es": "Creador de Hellboy. Maestro de negros gráficos.",
+      "guide_en": "Study: shape of shadow, minimal line.",
+      "guide_es": "Estúdialo por: forma de sombra, línea mínima.",
+      "id": "mike-mignola"
+    },
+    {
+      "en": "Frank Frazetta",
+      "es": "Frank Frazetta",
+      "gloss_en": "Fantasy oil legend (Conan). Dynamic muscle + drama.",
+      "gloss_es": "Leyenda del óleo fantasy (Conan). Músculo dinámico + drama.",
+      "guide_en": "Study: dynamic anatomy, dramatic rim light.",
+      "guide_es": "Estúdialo por: anatomía dinámica, contraluz dramática.",
+      "id": "frank-frazetta"
+    },
+    {
+      "en": "Bill Watterson",
+      "es": "Bill Watterson",
+      "gloss_en": "Calvin & Hobbes. Ink + watercolor acting.",
+      "gloss_es": "Calvin y Hobbes. Tinta + acuarela con actuación.",
+      "guide_en": "Study: Sunday watercolor, snowman acting.",
+      "guide_es": "Estúdialo por: acuarela dominical, actuación con muñecos de nieve.",
+      "id": "bill-watterson"
+    },
+    {
+      "en": "Stanley 'Artgerm' Lau",
+      "es": "Stanley 'Artgerm' Lau",
+      "gloss_en": "Stylized portrait master. Clean render + appeal.",
+      "gloss_es": "Maestro del retrato estilizado. Render limpio + appeal.",
+      "guide_en": "Study: portrait construction, clean color zones.",
+      "guide_es": "Estúdialo por: construcción de retrato, zonas limpias de color.",
+      "id": "artgerm"
+    },
+    {
+      "en": "WLOP",
+      "es": "WLOP",
+      "gloss_en": "Ghostblade painter. Luminous semi-realism.",
+      "gloss_es": "Pintor de Ghostblade. Semi-realismo luminoso.",
+      "guide_en": "Study: luminous skin, detailed costume render.",
+      "guide_es": "Estúdialo por: piel luminosa, render detallado de vestuario.",
+      "id": "wlop"
+    }
+  ],
+  "estilos": [
+    {
+      "en": "Contemporary Disney Toon",
+      "es": "Toon Disney contemporáneo",
+      "gloss_en": "Zootopia / Tangled appeal: big shapes, readable silhouette.",
+      "gloss_es": "Appeal tipo Zootopia / Enredados: formas grandes, silueta legible.",
+      "guide_en": "Practice: redraw your brief in this style, 3 expressions.",
+      "guide_es": "Practica: redibuja tu brief en este estilo, 3 expresiones.",
+      "id": "toon-disney"
+    },
+    {
+      "en": "TV Cartoon (CalArts)",
+      "es": "Cartoon TV (CalArts)",
+      "gloss_en": "Graphic TV design: bean shapes, bold poses.",
+      "gloss_es": "Diseño gráfico TV: formas frijol, poses atrevidas.",
+      "guide_en": "Practice: 4-pose expression sheet in 30 min.",
+      "guide_es": "Practica: hoja de 4 expresiones en 30 min.",
+      "id": "calarts-tv"
+    },
+    {
+      "en": "Cel-shade Anime",
+      "es": "Anime cel-shading",
+      "gloss_en": "Clean anime shadows, sharp highlights, graphic hair.",
+      "gloss_es": "Sombras anime limpias, brillos duros, pelo gráfico.",
+      "guide_en": "Practice: same head, day/night cel palette.",
+      "guide_es": "Practica: misma cabeza, paleta cel día/noche.",
+      "id": "anime-cel"
+    },
+    {
+      "en": "Ghibli Slice-of-life",
+      "es": "Ghibli costumbrista",
+      "gloss_en": "Quiet everyday poetry, lush backgrounds, soft light.",
+      "gloss_es": "Poesía cotidiana, fondos exuberantes, luz suave.",
+      "guide_en": "Practice: character + window light background.",
+      "guide_es": "Practica: personaje + fondo con luz de ventana.",
+      "id": "ghibli-fondo"
+    },
+    {
+      "en": "1930s Rubberhose",
+      "es": "Rubberhose años 30",
+      "gloss_en": "Pie-eyes, noodle limbs, bouncy rhythm.",
+      "gloss_es": "Ojos pastel, extremidades fideo, ritmo saltarín.",
+      "guide_en": "Practice: redraw your brief rubberhose, full body.",
+      "guide_es": "Practica: redibuja tu brief rubberhose, cuerpo entero.",
+      "id": "rubberhose"
+    },
+    {
+      "en": "Pixar Appeal in 2D",
+      "es": "Appeal Pixar en 2D",
+      "gloss_en": "3D appeal translated: volume, asymmetry, charm.",
+      "gloss_es": "Appeal 3D traducido: volumen, asimetría, encanto.",
+      "guide_en": "Practice: appeal pass — 10 thumbnail silhouettes.",
+      "guide_es": "Practica: pase de appeal — 10 siluetas thumbnail.",
+      "id": "pixar-appeal"
+    },
+    {
+      "en": "Stylized Semi-realism",
+      "es": "Semi-realismo estilizado",
+      "gloss_en": "Arcane / Loish zone: realistic base, graphic finish.",
+      "gloss_es": "Zona Arcane / Loish: base realista, acabado gráfico.",
+      "guide_en": "Practice: portrait with limited palette (4 colors).",
+      "guide_es": "Practica: retrato con paleta limitada (4 colores).",
+      "id": "semi-realismo"
+    },
+    {
+      "en": "Noir Ink Comic",
+      "es": "Cómic noir en tinta",
+      "gloss_en": "Heavy blacks, harsh light, crime mood.",
+      "gloss_es": "Negros pesados, luz dura, mood criminal.",
+      "guide_en": "Practice: 3-value noir version of your brief.",
+      "guide_es": "Practica: versión noir en 3 valores de tu brief.",
+      "id": "comic-noir"
+    },
+    {
+      "en": "Ligne Claire (Moebius)",
+      "es": "Línea clara (Moebius)",
+      "gloss_en": "Even line, open worlds, horizon staging.",
+      "gloss_es": "Línea pareja, mundos abiertos, staging al horizonte.",
+      "guide_en": "Practice: character + environment with clear line.",
+      "guide_es": "Practica: personaje + entorno en línea clara.",
+      "id": "linea-clara"
+    },
+    {
+      "en": "Mid-century UPA / Mary Blair",
+      "es": "Mid-century UPA / Mary Blair",
+      "gloss_en": "Flat graphic shapes, bold color collisions.",
+      "gloss_es": "Formas planas gráficas, choques audaces de color.",
+      "guide_en": "Practice: 3-color flat redesign.",
+      "guide_es": "Practica: rediseño plano en 3 colores.",
+      "id": "upa-midcentury"
+    },
+    {
+      "en": "Picturebook Watercolor",
+      "es": "Álbum infantil acuarela",
+      "gloss_en": "Soft textures, child appeal, readable staging.",
+      "gloss_es": "Texturas suaves, appeal infantil, staging legible.",
+      "guide_en": "Practice: vignette + spot illustration.",
+      "guide_es": "Practica: viñeta + ilustración puntual.",
+      "id": "picturebook"
+    },
+    {
+      "en": "Chibi / Super-deformed",
+      "es": "Chibi / super-deformed",
+      "gloss_en": "2-3 heads tall, maximum appeal, minimal detail.",
+      "gloss_es": "2-3 cabezas de alto, appeal máximo, detalle mínimo.",
+      "guide_en": "Practice: turn your brief chibi keeping personality.",
+      "guide_es": "Practica: vuelve chibi tu brief sin perder personalidad.",
+      "id": "chibi"
+    },
+    {
+      "en": "Cinematic Visdev / Color Script",
+      "es": "Visdev cinematográfico / color script",
+      "gloss_en": "3 keyframes: mood, light change, story beat.",
+      "gloss_es": "3 keyframes: mood, cambio de luz, beat de historia.",
+      "guide_en": "Practice: 3-panel color script of your brief.",
+      "guide_es": "Practica: color script de 3 paneles de tu brief.",
+      "id": "color-script"
+    },
+    {
+      "en": "Realistic Creature",
+      "es": "Criatura realista",
+      "gloss_en": "Functional anatomy, texture, believable weight.",
+      "gloss_es": "Anatomía funcional, textura, peso creíble.",
+      "guide_en": "Practice: skeleton + muscle + skin pass.",
+      "guide_es": "Practica: pase esqueleto + músculo + piel.",
+      "id": "criatura-realista"
+    },
+    {
+      "en": "Mecha / Hard-surface",
+      "es": "Mecha / hard-surface",
+      "gloss_en": "Boxes + panels + functional joints.",
+      "gloss_es": "Cajas + paneles + articulaciones funcionales.",
+      "guide_en": "Practice: 6 thumbnail mecha torsos.",
+      "guide_es": "Practica: 6 thumbnails de torsos mecha.",
+      "id": "mecha"
+    },
+    {
+      "en": "Horror Ink (Junji Ito zone)",
+      "es": "Terror en tinta (zona Junji Ito)",
+      "gloss_en": "Fine obsessive line, dread staging.",
+      "gloss_es": "Línea fina obsesiva, staging de pavor.",
+      "guide_en": "Practice: same character, horror lighting pass.",
+      "guide_es": "Practica: mismo personaje, pase de luz de terror.",
+      "id": "horror-tinta"
+    },
+    {
+      "en": "Shonen Manga",
+      "es": "Manga shonen",
+      "gloss_en": "Speed lines, impact frames, clear action.",
+      "gloss_es": "Líneas cinéticas, frames de impacto, acción clara.",
+      "guide_en": "Practice: 1 action page, 4 panels.",
+      "guide_es": "Practica: 1 página de acción, 4 paneles.",
+      "id": "manga-shonen"
+    },
+    {
+      "en": "DreamWorks Epic Stylized",
+      "es": "Épico estilizado DreamWorks",
+      "gloss_en": "Dragons / Panda zone: epic scale, painterly render.",
+      "gloss_es": "Zona Dragones / Panda: escala épica, render pictórico.",
+      "guide_en": "Practice: epic wide shot + small silhouette.",
+      "guide_es": "Practica: plano general épico + silueta pequeña.",
+      "id": "dreamworks-epico"
+    },
+    {
+      "en": "Painterly Stylized (Arcane zone)",
+      "es": "Pictórico estilizado (zona Arcane)",
+      "gloss_en": "Visible brush, graphic faces, textured render.",
+      "gloss_es": "Pincel visible, rostros gráficos, render con textura.",
+      "guide_en": "Practice: face study with visible brushwork.",
+      "guide_es": "Practica: estudio de rostro con pincel visible.",
+      "id": "arcane-painterly"
+    },
+    {
+      "en": "European Sci-fi Comic",
+      "es": "Cómic europeo sci-fi",
+      "gloss_en": "Métal Hurlant density, tech + desert poetry.",
+      "gloss_es": "Densidad Métal Hurlant, tech + poesía desértica.",
+      "guide_en": "Practice: vehicle + rider thumbnail set.",
+      "guide_es": "Practica: set de thumbnails vehículo + jinete.",
+      "id": "europeo-scifi"
+    }
+  ]
+}

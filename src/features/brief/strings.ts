@@ -12,6 +12,12 @@ export const STR = {
     rol: 'Rol', prof: 'Profesión', inner: 'Mood interno', outer: 'Mood externo',
     changeRol: 'Cambiar rol', changeProf: 'Cambiar profesión',
     changeInner: 'Cambiar mood interno', changeOuter: 'Cambiar mood externo',
+    tabBrief: 'Brief', tabStudy: 'Estudio',
+    studyNew: 'Nuevo estudio', studyStop: 'Detener',
+    studyEmpty: 'Pulsa Nuevo estudio para girar estilo + referente.',
+    studyEstilo: 'Estilo a practicar', studyArtista: 'Referente industria',
+    studyChangeEstilo: 'Cambiar estilo', studyChangeArtista: 'Cambiar referente',
+    studyHint: 'Gira y estudia: reproduce una pieza del referente en ese estilo.',
   },
   en: {
     brand: 'LevelYourDraw',
@@ -26,6 +32,12 @@ export const STR = {
     rol: 'Role', prof: 'Profession', inner: 'Inner mood', outer: 'Outer mood',
     changeRol: 'Reroll role', changeProf: 'Reroll profession',
     changeInner: 'Reroll inner mood', changeOuter: 'Reroll outer mood',
+    tabBrief: 'Brief', tabStudy: 'Study',
+    studyNew: 'New study', studyStop: 'Stop',
+    studyEmpty: 'Press New study to spin style + reference.',
+    studyEstilo: 'Style to practice', studyArtista: 'Industry reference',
+    studyChangeEstilo: 'Reroll style', studyChangeArtista: 'Reroll reference',
+    studyHint: 'Spin and study: reproduce one piece from the reference in that style.',
   },
 } as const;
 
